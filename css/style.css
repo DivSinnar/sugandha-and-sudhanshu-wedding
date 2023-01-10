@@ -572,6 +572,22 @@ a {
 
 .actions {
   display: flex;
-  font-size: 12px;
+  font-size: 14px;
   letter-spacing: 0pt;
+  padding: 20px;
+}
+
+.image1 {
+  display: flex;
+  flex-direction: column;
+  width: max-content;
+  height: max-content;
+}
+
+.image2 {
+  display: flex;
+  flex-direction: column;
+  width: max-content;
+  height: max-content;
+  padding-top: 20px;
 }
